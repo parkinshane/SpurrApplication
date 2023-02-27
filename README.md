@@ -14,7 +14,7 @@ Contents
 #### Install From Source
 
 ```bash
-$ git clone [https://github.com/parkinshane/SpurrApplication.git]
+git clone https://github.com/parkinshane/SpurrApplication.git
 ```
 
 ### Configuration
