@@ -6,7 +6,6 @@ The Employee Directory application is a lightweight application using php and Aj
 Contents
 ========
  * [Installation](#installation)
- * [Usage](#installation)
  * [Configuration](#configuration)
 
 ### Installation
