@@ -23,8 +23,9 @@ $ git clone [https://github.com/parkinshane/SpurrApplication.git]
 1. To start using the application, simply create a database called raxandb in Mysql.
 2. Create a table called employees with the fields id, first_name, last_name, empno, birthdate and gender.
 3. Create a local virtual server with the application using wamp or any other virtual server application.
-4. Serve application
-5. No libraries needed Your all done enjoy.
+4. Serve application.
+5. No libraries needed.
+6. Your all done enjoy.
 
 NB: For additional documatation on raxan please see https://raxanpdi.com/
 User Guide is available at https://raxanpdi.com/sdk/docs/what-is-raxan.html
