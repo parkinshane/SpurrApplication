@@ -27,7 +27,6 @@
                 <div class="container rax-toolbar-pal round">
                     <ul>
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="employeeList.php">Employee List</a></li>
                         <li><a href="addForm.php">Add Employee</a></li>
                         <!-- <li><a href="#">About</a></li> -->
                     </ul>
