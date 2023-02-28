@@ -1,4 +1,4 @@
-# Spurr Technologies Application
+# Spurr Technologies Emplyee Directory Application
 
 Spurr Application
 The Employee Directory application is a lightweight application using php and Ajax that allows a user to create new employees. It also allows the updating and deleting of said employees.
