@@ -1,42 +1,5 @@
 <?php
 
-
-// require_once 'raxan/pdi/autostart.php';
-
-// // Quickstart - Sample page class
-// class NewPage extends RaxanWebPage {
-
-//     protected function _config() {
-//         $this->masterTemplate = 'views/master.php'; // set master template
-//         $this->autoAppendView = '{view}.view.php';  // set page view file name
-
-//         // Additional page configuration code goes here
-//     }
-
-//     protected function _init() {
-//         // Page initalization event code goes here
-//     }
-
-//     protected function _indexView() {
-//         // Page index view code goes here
-
-//         // To learn more about page views
-//         // visit http://raxanpdi.com/sdk/docs/page-view.html
-//     }
-
-//     protected function _load() {
-//         // Page load event code goes here
-
-//         // To learn more about page exetcution
-//         // order visit http://raxanpdi.com/sdk/docs/page-cycle.html
-//     }
-
-// }
-
-?>
-
-<?php
-
 require_once 'raxan/pdi/autostart.php';
 
 // system configuration
