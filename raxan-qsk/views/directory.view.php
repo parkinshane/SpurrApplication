@@ -22,7 +22,7 @@
                     <label class="column c4">Last Name:</label><input class="textbox" id="last_name" name="last_name" size="42" />
                 </div>
                 <div class="ctrl-group">
-                    <label class="column c4">Employee No:</label><input class="textbox" id="emp_no" name="emp_no" size="42" />
+                    <label class="column c4">Employee No:</label><input class="textbox" type="number" id="emp_no" name="emp_no" size="42" />
                 </div>
                 <div class="ctrl-group">
                     <label class="column c4">Birth Date:</label>
